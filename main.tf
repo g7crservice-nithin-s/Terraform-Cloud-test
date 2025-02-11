@@ -41,7 +41,7 @@ resource "azurerm_storage_account" "example" {
     environment = var.environment
   }
 }
-resource "azurerm_storage_account" "example" {
+resource "azurerm_storage_account" "example2" {
   name                     = "storarageaccout1421"
   resource_group_name      = azurerm_resource_group.myRcGroup.name
   location                 = azurerm_resource_group.myRcGroup.location
