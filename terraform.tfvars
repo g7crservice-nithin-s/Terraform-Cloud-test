@@ -1,0 +1,5 @@
+environment         = "dev"
+ARM_CLIENT_ID       = "159a2849-688d-4516-9f90-7880eda5894f"
+ARM_CLIENT_SECRET   = "Z1b8Q~BlUiRvr.-T.6qc_JJIrBaJNU-_V4XeedqR"
+ARM_SUBSCRIPTION_ID = "8a44f989-c4ee-480b-ba21-a3b3f0f60d60"
+ARM_TENANT_ID       = "380a88f6-5447-406c-bebb-2c908f53f0a3"
